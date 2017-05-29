@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IsCry.iml" filepath="$PROJECT_DIR$/.idea/modules/IsCry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IsCry_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IsCry_main.iml" group="IsCry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IsCry_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IsCry_test.iml" group="IsCry" />
+    </modules>
+  </component>
+</project>
